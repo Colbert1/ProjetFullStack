@@ -14,7 +14,7 @@
     }
     
     if ($connect == true){
-        echo "je suis connect" ;
+        echo "je suis connect greg" ;
     }
 
     $Perso1 = new Personnage(0);
